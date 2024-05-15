@@ -14,7 +14,7 @@ global.larangannya = 'Rules'
 global.textsc = '' // tambahin
 
 //openai//
-global.keyopenai = '' // 2 apikey free
+global.keyopenai = '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' // 2 apikey free
 
 //====================[ BY DRAGs ]=============================//
 
